@@ -1,0 +1,6 @@
+{
+  "name": "Tunisia-Sat",
+  "description": "تطبيق منتدى تونيزيا سات لتصفح سريع وسلس للمنتديات وأقسام الفضائيات والتكنولوجيا والرياضة مع إشعارات فورية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
